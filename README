@@ -4,6 +4,10 @@
                 
                         BuddyPress Türkçe Çevirimi
             BuddyPress - WordPress Mu için social ağ eklentisi -
+            
+                                 Yazanlar:
+                Halil Köklü <info (at) halilkoklu (dot) de>
+             Görkem Çetin <gorken.cetin (at) gmail (dot) com>
 ----------------------------------------------------------------------------- */
 
 
@@ -11,13 +15,17 @@
 ----------------------------------------------------------------------------- */
 
 BuddyPress Wordpress Mu sürümünüze sosyal ağ funksiyonlarıyla donatan bir
-eklenti. BuddyPress ile Grup, Forum, Profiller, Arkadaşlar, Mesajlama vs. 
-Facebook gibi sosyal komünite kurabilirsiniz.
+eklenti.
 
 
 /* Nasıl yükleyebilirim?
 ----------------------------------------------------------------------------- */
 
+BuddyPress plugin klasöründe bulunan “bp-languages” klasörün içine indirmiş
+olduğun dil sürümünü yükle. WPMU ayarlarında Türkçe dilini aktifleştir.
 
 /* Nasıl katkıda bulunabilirim?
 ----------------------------------------------------------------------------- */
+
+Katkıda bulunmak istiyorsan Halil Köklü'ye (info (at) halilkoklu (dot) de) mail
+yazarak nasıl katkıda bulunabileceğini öğrenebilirsin.
