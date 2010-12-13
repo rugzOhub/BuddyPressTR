@@ -17,12 +17,21 @@
 BuddyPress Wordpress Mu sürümünüze sosyal ağ funksiyonlarıyla donatan bir
 eklenti.
 
+/* Nasıl indirebilirim?
+----------------------------------------------------------------------------- */
+
+https://github.com/halk/BuddyPressTR sayfasında sağda "Downloads" linkine
+tıklayarak en son sürümü indiriniz. ZIP dosyasını açınız.
+
+buddypress-tr_TR.mo Buddypress'e yüklenecek dosya
+buddypress-tr_TR.po Dil sürümünü düzenleme dosyası
 
 /* Nasıl yükleyebilirim?
 ----------------------------------------------------------------------------- */
 
 BuddyPress plugin klasöründe bulunan “bp-languages” klasörün içine indirmiş
-olduğun dil sürümünü yükle. WPMU ayarlarında Türkçe dilini aktifleştir.
+olduğun dil sürümünü (buddypress-tr_TR.mo dosyasini) yükle. WPMU ayarlarında 
+Türkçe dilini aktif olup olmadığını kontrol et, değilse aktifleştir.
 
 /* Nasıl katkıda bulunabilirim?
 ----------------------------------------------------------------------------- */
